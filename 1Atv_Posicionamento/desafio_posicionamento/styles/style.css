@@ -1,0 +1,104 @@
+img{
+
+    width: 200px;
+
+}
+
+.fantasma {
+
+    width: 130px;
+
+}
+
+.linha {
+
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;  
+    justify-content: space-between;
+    margin-bottom: 50px;
+    height: 960px;
+
+}
+
+.linha1 {
+
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+
+}
+
+.linha2 {
+
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 50px;
+
+}
+
+.linha3 {
+
+    background-color: aqua;
+    display: flex;
+    justify-content: center ;
+    margin-bottom: 50px;
+
+}
+
+.linha4 {
+
+    background-color: aqua;
+    display: flex;
+    justify-content: flex-end ;
+    margin-bottom: 50px;
+
+}
+
+.linha5 {
+
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between ;
+    margin-bottom: 50px;
+
+}
+
+.linha6 {
+
+    background-color: magenta;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.amarelo {
+
+    background-color: yellow;
+
+}
+
+.amarelo1 {
+
+    background-color: yellow;
+       width: 350px;
+
+}
+
+.amarelo2 {
+
+    background-color: yellow;
+    display: flex;
+    justify-content: space-between ;
+    width: 960px;
+
+}
+
+.amarelo3 {
+
+    background-color: yellow;
+       width: 550px;
+
+}
